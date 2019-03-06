@@ -1,0 +1,2 @@
+scutil --dns | grep "nameserver\[[0-9]*\]" | cut -c 19-
+cat /etc/resolv.conf
