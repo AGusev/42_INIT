@@ -1,0 +1,1 @@
+du -ha --max-de[th=1/var/ | sort -n

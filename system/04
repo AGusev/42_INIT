@@ -1,0 +1,3 @@
+uptime --since
+or
+last reboot | cut -c 40- | cut -c -16
