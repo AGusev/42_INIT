@@ -1,3 +1,5 @@
+//To view the DNS configuration used by this system
 scutil --dns | grep "nameserver\[[0-9]*\]" | cut -c 19-
+
 cat /etc/resolv.conf
 
