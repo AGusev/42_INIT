@@ -1,0 +1,1 @@
+nslookup 42.fr | grep Address | cut -c 10- | tail -3

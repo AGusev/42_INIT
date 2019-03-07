@@ -1,1 +1,2 @@
 netstat -rn | grep 'default' | cut -c -34 | cut -c 20- |  head -1
+
