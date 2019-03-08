@@ -1,0 +1,1 @@
+useradd test || useradd -m test || useradd -m -d /test test
