@@ -1,1 +1,3 @@
-who -u | cut -c -9 || who -q | head -1 || w | tail -1 | cut -c -8
+who -u | cut -c -9
+or
+who -q | head -1 or w | tail -1 | cut -c -8

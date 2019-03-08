@@ -1,1 +1,1 @@
-du -ha --max-de[th=1/var/ | sort -n
+du -ha --max-depth=1/var/ | sort -n

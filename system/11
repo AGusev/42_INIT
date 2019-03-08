@@ -1,1 +1,7 @@
-df || df -l || df -lh || df -lH
+df
+or
+df -l
+or
+df -lh
+or
+df -lH

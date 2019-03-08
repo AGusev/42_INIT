@@ -1,1 +1,1 @@
- cut -d: -f1 /etc/passwd || awk -F':' '{ print }' /etc/passwd
+cat /etc/passwd | awk -F':'' '{print $1}'

@@ -1,2 +1,3 @@
 kill $(jobs -p)
+or
 kill -TERM &!

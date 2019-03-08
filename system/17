@@ -1,1 +1,3 @@
-iptables -S || iptables -L
+iptables -S
+or
+iptables -L
